@@ -1,1 +1,1 @@
-# Projeto-Bateria
+Projeto em HTML CSS e JAVASCRIPT Onde cada tecla reproduz um som como se fosse uma bateria, também existe a possibilidade de "criar sua composição" onde pode-se escolher quais sons tocar e em seguida clicar no botão "Tocar" para executar o som escolhido !
